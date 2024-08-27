@@ -23,6 +23,7 @@ This project is a simple Student Management System implemented in Python. It all
     ```bash
     python student_management_system.py
     ```
+
 class Student:
     def __init__(self, id, name, age, major):
         # Initialize a new student with ID, name, age, and major
@@ -143,6 +144,7 @@ def menu():
 
 # Run the menu
 menu()
+
 
 
 3. **Follow the menu options** to add, delete, update, or view students.
