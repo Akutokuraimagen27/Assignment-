@@ -13,11 +13,11 @@ This project is a simple Student Management System implemented in Python. It all
 
 ## How to Run
 
-1. copy and paste codefrom 
-    https://github.com/Akutokuraimagen27/Assignment-
-    ```
+1. **copy code from the code file in the repository** 
 
-2. **Run the system**:
+2. **paste them into the idl**
+
+3. **Run the system**:
     ```bash
     python student_management_system.py
     ``
