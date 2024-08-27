@@ -15,8 +15,8 @@ This project is a simple Student Management System implemented in Python. It all
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Akutokuraimagen27/student-management-system.git
-    cd student-management-system
+    git clone
+    https://github.com/Akutokuraimagen27/Assignment-
     ```
 
 2. **Run the system**:
